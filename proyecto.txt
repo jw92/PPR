@@ -19,25 +19,20 @@ El problema que tengo que manejamos diferentes proyectos; sin embargo, no conozc
 
 [Ciclos]
     1. Del 24 de septiembre al 4 de octubre.
-        [Goles]
             1. Documento de requerimientos.
             2. Borrador del documento de arquitectura.
 
     2. Del 5 de octubre al 18 de octubre.
-        [Goles]
             1. Documento de arquitectura.
 
     3. Del 19 de octubre al 1 de noviembre.
-        [Goles]
             1. Modificaciones a la base de datos de redmine.
             2. Testeo de las modificaciones realizadas a la base de datos de redmine.
 
     4. Del 2 de noviembre al 15 de noviembre.
-        [Goles]
             1. Implementación
             2. Testeo.
 
     5. Del 16 de noviembre al 29 de noviembre.
-        [Goles]
             1. Implementación
             2. Testeo.

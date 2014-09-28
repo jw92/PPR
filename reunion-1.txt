@@ -1,0 +1,14 @@
+[PROCESO DE CALENDARIZACIÓN]
+Crear un proceso que calendarize las tareas dadas en un archivo de excel. El proceso recibe como entrada un archivo de excel con las siguientes informaciones:
+    - Los datos globales del proyecto(nombre, fecha de inicio, deadline)
+    - Las tareas que componen el proyecto, y cada una de estas debe tener su identificador, el identificador de su padre(si tiene) y la cantidad de horas estimadas para su realización.
+El mismo devolver un archivo de excel en el formato que utiliza el <IMPORTADOR> con las tareas calendarizadas y con los totales globales del proyecto.
+[MANEJO DE RECURSOS Y PROYECTOS]
+Crear un plugin de redmine que permita establecer la cantidad de horas al día que un recurso tiene, establecer el porcentaje de horas que estará comprometido un recurso con su proyecto(Debe tomar en cuenta que puede estar trabajando en varios proyectos)
+
+
+[DUDAS]
+1. Versiones de las aplicaciones que está utilizando.
+2. Los desarrolladores deben tener acceso a la pantalla de la calendarización del proyecto?
+3. Información de prueba.
+4. Como resolver en el caso de que un desarrollador no este disponible durante el lapso del proyecto?

@@ -1,9 +1,5 @@
-[Goles]
 1. Documentos de requerimientos.
 2. Borrador del documento de la arquitectura.
 
-[Reuniones]
-Sabados a las 3:00 pm
-
 [Informacion Semanal]
-Sabados antes de las 3:00 pm
+Jueves a las 5:00 pm
