@@ -1,0 +1,38 @@
+[Descripción del Producto]
+El problema que tengo que manejamos diferentes proyectos; sin embargo, no conozco la disponibilidad real de mis recursos por día. La intención del producto es poder permitirle al encargado de producción, conocer que días, tendrá disponibilidad. Todo esto utilizando la plataforma redmine.
+
+[Roles]
+    1. Team Leader
+        Alan Alvarez
+
+    2. Quality/Process Manager
+        Jusnen Volquez
+
+    3. Support Manager
+        Gilven Wu
+
+    4. Planning Manager
+        Hector Vasquez Roman
+
+    5. Developer Manager
+        Jose Gabriel Reyes
+
+[Ciclos]
+    1. Del 24 de septiembre al 4 de octubre.
+            1. Documento de requerimientos.
+            2. Borrador del documento de arquitectura.
+
+    2. Del 5 de octubre al 18 de octubre.
+            1. Documento de arquitectura.
+
+    3. Del 19 de octubre al 1 de noviembre.
+            1. Modificaciones a la base de datos de redmine.
+            2. Testeo de las modificaciones realizadas a la base de datos de redmine.
+
+    4. Del 2 de noviembre al 15 de noviembre.
+            1. Implementación
+            2. Testeo.
+
+    5. Del 16 de noviembre al 29 de noviembre.
+            1. Implementación
+            2. Testeo.
