@@ -1,3 +1,4 @@
+[Criterio de Salida]
 1. Documentos de requerimientos.
 2. Borrador del documento de la arquitectura.
 
