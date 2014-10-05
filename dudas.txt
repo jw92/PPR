@@ -1,0 +1,1 @@
+1. Qué se hace cuando se actualiza un proyecto(nuevo recurso, nuevas tareas, etc)?
