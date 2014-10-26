@@ -1,4 +1,4 @@
 1. Qué se hace cuando se actualiza un proyecto(nuevo recurso, nuevas tareas, etc)?
 2. Qué versión de ruby utilizan?
 3. Qué versión de rails?
-4. Qué 
+4. Será posible cambiar el día en que una tarea será realizada?
