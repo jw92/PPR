@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[preview]{standalone}
 \usepackage{dirtree}
 
 \begin{document}
@@ -10,12 +10,13 @@
 .4 README.rdoc.
 .4 app.
 .5 controllers.
-.6 ppr\_project\_controller.rb.
+.6 ppr\_projects\_controller.rb.
 .6 resources\_controller.rb.
 .6 user\_schedule\_entry\_controller.rb.
 .6 user\_schedule\_exception\_controller.rb.
 .5 helpers.
 .6 resources\_helper.rb.
+.6 ppr\_projects\_helper.rb.
 .5 models.
 .6 ppr\_project.rb.
 .6 ppr\_project\_task.rb.
@@ -24,16 +25,15 @@
 .6 user\_schedule\_exception.rb.
 .5 views.
 .6 importer.
-.6 ppr.
-.7 project.
-.8 index.html.erb.
-.8 show.html.erb.
-.8 result.html.erb.
-.7 resources.
-.8 show.html.erb.
-.7 user.
-.8 \_user\_exception\_entries.html.erb.
-.8 \_user\_schedule\_entries.html.erb.
+.6 ppr\_project.
+.7 new.html.erb.
+.7 show.html.erb.
+.7 result.html.erb.
+.6 resources.
+.7 show.html.erb.
+.6 user.
+.7 \_user\_exception\_entries.html.erb.
+.7 \_user\_schedule\_entries.html.erb.
 .4 assets.
 .5 stylesheets.
 .6 resources.css.
